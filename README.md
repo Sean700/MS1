@@ -26,7 +26,7 @@ I want to create a website geared towards gluten free recipes as I've been recen
 * Be part of a community sharing and using recipes for celiac. 
 
 ### Contributors
-1. Let the comment sections be social, but to the point. Give a limited amount of characters for a comment.
+1. Let the comment sections be social, but to the point. Give a limited number of characters for a comment.
 2. Allow responses in the comment section if possible, including a reply button and some emojis like thumbs up, fist-bump, etc. 
 3. Be able to rate recipes and offer suggestions.
 
