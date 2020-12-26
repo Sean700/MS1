@@ -26,9 +26,10 @@ I want to create a website geared towards gluten free recipes as I've been recen
 * Be part of a community sharing and using recipes for celiac. 
 
 ### Contributors
-1. Let the comment sections be social, but to the point. Give a limited number of characters for a comment.
+1. Let the comment sections be social, but to the point. Give a limited amount of characters for a comment.
 2. Allow responses in the comment section if possible, including a reply button and some emojis like thumbs up, fist-bump, etc. 
 3. Be able to rate recipes and offer suggestions.
+4. Allow recipes to be saved using an icon with a registered account
 
 ## Design 
 ### Colour
@@ -37,7 +38,7 @@ I want to create a website geared towards gluten free recipes as I've been recen
 * c. These light colours are what I would associate with a kitchen, being bright, open and positive. 
 
 ### Font
-I will use the Raleway font with sans-serif as a back-up for my **typography**. 
+I will use the *Raleway* from Google Fonts, with sans-serif as a back-up for my **typography**. 
 I like this font as it is a clean, crisp font which is also distinguishable yet would be exclusive to this website. 
 
 ### Images 
@@ -83,3 +84,34 @@ GitHub is used to store the projects code after being pushed from Git.
 + Balsamiq:
 Balsamiq was used to create the wireframes during the design process.
 
+
+## Testing
+
+W3C Markup Validator and W3C CSS Validator Services tested the wesite project for any syntax errors.
+
++ [W3C Validator](https://validator.w3.org/)
++ [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+All testing was done using the above validators. 
+
+## Testing - First Time User
+
+As a first time user I wanted the visitor to;
+- Be met with a clean, easily understood homepage
+- Find their way easily around the website using the navigation background
+- Find the colour scheme relaxing on the eye and not too intrusive
+- Be drawn to register an account via a jumbotron hero unit
+- Have the option to scroll the homepage or click on one of the categories in the nav background
+
+## Returning User
+- Login the wesite and see saved recipes
+- Scroll recently uploaded recipes
+- Find a recipe with ease
+- Contribute to the website comment section (Optional)
+- Use the nav bar to find what I was searching for
+
+## Regular User
+- See/Search for any newly uploaded content or data
+- Browse through the recently uploaded recipes
+- Add recipes into my *Saved Recipes* 
+- Give feedback to recipes tried 
