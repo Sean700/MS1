@@ -1,45 +1,48 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# MS1 Project
 
-Welcome USER_NAME,
+I want to create a website geared towards gluten free recipes as I've been recently diagnosed as celiac. All recipes in the website will be gluten free and have categories from treats to meals to vegan/vegetarian and all in between. I want this website to be interactive and social to the extent where users will be able to upload their own recipes to the website. I will look to try and incorporate a comment section along with a rating response section also. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+# UX
 
-## Gitpod Reminders
+### + User Stories
+* I want the user to be able to easily navigate around the site with ease.
+* The user should be able to easily find a recipe from a category s/he is searching for.
+* Have inviting images to supplement the recipes.
+* Have a limited filter system in place to be able to get the desired recipe.
+* Be able to read user comments and suggestions about recipes.
+* Be able to register an account so as they can contribute to the website. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+### + Returning Users
+1. Will be able to contribute to the comment section after trying a recipe
+2. Be able to upload a recipe of their own
+3. Rate a recipe from one star to 5 stars. 
+4. Easily find a recipe they want.
+5. Have the option to download a recipe.
 
-`python3 -m http.server`
+### As a Celiac
+* I want to be able to find a recipe without having to do much filtering.
+* Browse, read comments, contribute and select a recipe that I know is gluten free. 
+* Be confident that contributors are also celiac thus giving security in the knowledge that their judgement is credible. 
+* Be part of a community sharing and using recipes for celiac. 
 
-A blue button should appear to click: *Make Public*,
+### Contributors
+1. Let the comment sections be social, but to the point. Give a limited amount of characters for a comment.
+2. Allow responses in the comment section if possible, including a reply button and some emojis like thumbs up, fist-bump, etc. 
+3. Be able to rate recipes and offer suggestions.
 
-Another blue button should appear to click: *Open Browser*.
+## Design 
+### Colour
+* a. I want to minimalise colour scheme for the website. Select from a range of 3 to 5 colours. Keep it simple.
+* b. I will find a suitable colour scheme from contrasting light colours; yellows, greens, blues and oranges. 
+* c. These light colours are what I would associate with a kitchen, being bright, open and positive. 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Font
+I will use the Raleway font with sans-serif as a back-up for my **typography**. 
+I like this font as it is a clean, crisp font which is also distinguishable yet would be exclusive to this website. 
 
-A blue button should appear to click: *Make Public*,
+### Images 
+Images of the recipes will be included next to each recipe.
+A background image of a kitchen will serve as the website background.
+* These images are in-line with the keeping of a recipe website and will capture the user’s attention. 
 
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+## Features
