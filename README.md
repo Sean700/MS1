@@ -56,6 +56,15 @@ A background image of a kitchen will serve as the website background.
     + Queries
     + Information section
     + Suscribe to the website with an account
+    
+## Wireframes 
+I used the Balsamiq programme for my wireframes [Balsamiq](https://balsamiq.com/)
+
+- Homepage INSERT LINK
+- Recipe List INSERT LINK
+- Jumbotron INSERT PAGE
+- Comment Section INSERT LINK
+- Rating Recipes INSERT LINK
 
 # Technologies Used
 
@@ -104,14 +113,15 @@ As a first time user I wanted the visitor to;
 - Have the option to scroll the homepage or click on one of the categories in the nav background
 
 ## Returning User
-- Login the wesite and see saved recipes
-- Scroll recently uploaded recipes
+- Register an account/Login to account
+- Scroll through recently uploaded recipes
 - Find a recipe with ease
 - Contribute to the website comment section (Optional)
-- Use the nav bar to find what I was searching for
+- Use the nav bar to find a recipe
 
 ## Regular User
 - See/Search for any newly uploaded content or data
+- Login to account
 - Browse through the recently uploaded recipes
 - Add recipes into my *Saved Recipes* 
 - Give feedback to recipes tried 
