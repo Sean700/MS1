@@ -4,7 +4,7 @@ Create and develop a website for celiac. Have all dishes and recipes gluten free
 All content in the website will be targeting people who require **gluten-free** recipes. I chose this as I have been recently diagnosed with celiac disease and have had to alter my diet over the past few months. Lots of good websites exist with great interactive experience. However, I wanted to create a website that is totally dedicated to gluten-free recipes. This helps me in my search for new ideas and recipes to try and store in my files. In completing this project idea, I hope to have created a functional, user-friendly experience website for all who demand gluten-free recipes and diets.  
 
 # UX
-##User Stories
+## User Stories
 
 ### First Time User Targets
 * I want the user to be able to easily navigate around the site with ease.
