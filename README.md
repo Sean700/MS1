@@ -109,7 +109,7 @@ W3C Markup Validator and W3C CSS Validator Services tested the website project f
 
 All testing was done using the above validators. 
 
-### Testing - First Time User
+### Testing - First Time User Targets
 
 As a first-time user I wanted the visitor to;
 - Be met with a clean, easily understood homepage
@@ -118,14 +118,14 @@ As a first-time user I wanted the visitor to;
 - Be drawn to register an account via a jumbotron hero unit
 - Have the option to scroll the homepage or click on one of the categories in the nav background
 
-### Returning User
+### Returning User Targets
 - Register an account/Login to account
 - Scroll through recently uploaded recipes
 - Find a recipe with ease
 - Contribute to the website comment section (Optional)
 - Use the nav bar to find a recipe
 
-### Regular User
+### Regular User Targets
 - See/Search for any newly uploaded content or data
 - Login to account
 - Browse through the recently uploaded recipes
