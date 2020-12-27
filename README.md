@@ -3,7 +3,6 @@ Create and develop a website for celiac. Have all dishes and recipes gluten free
 
 All content in the website will be targeting people who require **gluten-free** recipes. I chose this as I have been recently diagnosed with celiac disease and have had to alter my diet over the past few months. Lots of good websites exist with great interactive experience. However, I wanted to create a website that is totally dedicated to gluten-free recipes. This helps me in my search for new ideas and recipes to try and store in my files. In completing this project idea, I hope to have created a functional, user-friendly experience website for all who demand gluten-free recipes and diets.  
 
-
 # UX
 
 ### User Stories
@@ -35,7 +34,12 @@ All content in the website will be targeting people who require **gluten-free** 
 
 ## Design 
 ### Colour
-* a. I want to minimalise colour scheme for the website. Select from a range of 3 to 5 colours. Keep it simple.
+* a. Keep a simple, soft complementary blend of colours. The following a selection of colours I liked and incorporated into my design. Seen on [Visme]( https://visme.co/blog/website-color-schemes/)
+•	#8D8741
+•	#659DBD
+•	#DAAD86
+•	#BC986A
+•	#FBEEC1
 * b. I will find a suitable colour scheme from contrasting light colours; yellows, greens, blues and oranges. 
 * c. These light colours are what I would associate with a kitchen, being bright, open and positive. 
 
