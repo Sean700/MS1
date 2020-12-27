@@ -52,6 +52,7 @@ I like this font as it is a clean, crisp font which is also distinguishable yet 
 Images of the recipes will be included next to each recipe.
 A background image of a kitchen will serve as the website background.
 * These images are in-line with the keeping of a recipe website and will capture the user’s attention. 
+Image sourced from [Unsplash.com](https://unsplash.com/s/photos/)
 
 ## Features
 + Responsive on all devices
@@ -175,7 +176,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 Click Here to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 ## Credits
 ## Code
--	The full-screen hero image code came from _______________________
+-	The full-screen hero image code came from [Unsplash.com](https://unsplash.com/s/photos/)
 -	Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Nav System.
 ## Content
 + All content was written by the developer.
