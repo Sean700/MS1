@@ -112,7 +112,7 @@ All testing was done using the above validators.
 
 ## Testing - First Time User Targets
 
-###First Time User Objectives;
+### First Time User Objectives;
 - Be met with a clean, easily understood homepage
 - Find their way easily around the website using the navigation background
 - Find the colour scheme relaxing on the eye and not too intrusive
@@ -143,7 +143,7 @@ All testing was done using the above validators.
 -	A white gap can be seen to the right of the footer and navigation bar as a result.
 -	On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
 # Deployment
-###GitHub Pages
+### GitHub Pages
 The project was deployed to GitHub Pages using the following steps...
 1.	Log in to GitHub and locate the **GitHub Repository**
 2.	At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
