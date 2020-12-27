@@ -1,5 +1,8 @@
 # MS1 Project
-Create and develop a website for celiacs. Have all dishes and recipes gluten free. Make the website a one-stop website for all who require gluten-free diets. Have categories for **Baking, Main-Dishes, Breakfast, Deserts** and **Snacks**  
+Create and develop a website for celiac. Have all dishes and recipes gluten free. Make the website a one-stop website for all who require gluten-free diets. Have categories for **Baking, Main-Dishes, Breakfast, Deserts** and **Snacks. ** Make sure that the website is easy to navigate and has a very good UX. To ensure a good, functional UX many considerations have been taken into account, (See below). The objective is to have a clean, crisp and operational website with all links working well and users find it informative. Have a website that has a good relationship with the user and they feel comfortable within the website. 
+
+All content in the website will be targeting people who require **gluten-free** recipes. I chose this as I have been recently diagnosed with celiac disease and have had to alter my diet over the past few months. Lots of good websites exist with great interactive experience. However, I wanted to create a website that is totally dedicated to gluten-free recipes. This helps me in my search for new ideas and recipes to try and store in my files. In completing this project idea, I hope to have created a functional, user-friendly experience website for all who demand gluten-free recipes and diets.  
+
 
 # UX
 
