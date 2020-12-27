@@ -4,7 +4,7 @@ I want to create a website geared towards gluten free recipes as I've been recen
 
 # UX
 
-### + User Stories
+### User Stories
 * I want the user to be able to easily navigate around the site with ease.
 * The user should be able to easily find a recipe from a category s/he is searching for.
 * Have inviting images to supplement the recipes.
@@ -12,7 +12,7 @@ I want to create a website geared towards gluten free recipes as I've been recen
 * Be able to read user comments and suggestions about recipes.
 * Be able to register an account so as they can contribute to the website. 
 
-### + Returning Users
+### Returning Users
 1. Will be able to contribute to the comment section after trying a recipe
 2. Be able to upload a recipe of their own
 3. Rate a recipe from one star to 5 stars. 
