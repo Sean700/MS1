@@ -26,7 +26,7 @@ I want to create a website geared towards gluten free recipes as I've been recen
 * Be part of a community sharing and using recipes for celiac. 
 
 ### Contributors
-1. Let the comment sections be social, but to the point. Give a limited amount of characters for a comment.
+1. Let the comment sections be social, but to the point. Give a limited number of characters for a comment.
 2. Allow responses in the comment section if possible, including a reply button and some emojis like thumbs up, fist-bump, etc. 
 3. Be able to rate recipes and offer suggestions.
 4. Allow recipes to be saved using an icon with a registered account
@@ -55,7 +55,7 @@ A background image of a kitchen will serve as the website background.
     + Download a recipe
     + Queries
     + Information section
-    + Suscribe to the website with an account
+    + Subscribe to the website with an account
     
 ## Wireframes 
 I used the Balsamiq programme for my wireframes [Balsamiq](https://balsamiq.com/)
@@ -96,7 +96,7 @@ Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
 
-W3C Markup Validator and W3C CSS Validator Services tested the wesite project for any syntax errors.
+W3C Markup Validator and W3C CSS Validator Services tested the website project for any syntax errors.
 
 + [W3C Validator](https://validator.w3.org/)
 + [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
@@ -105,7 +105,7 @@ All testing was done using the above validators.
 
 ## Testing - First Time User
 
-As a first time user I wanted the visitor to;
+As a first-time user I wanted the visitor to;
 - Be met with a clean, easily understood homepage
 - Find their way easily around the website using the navigation background
 - Find the colour scheme relaxing on the eye and not too intrusive
@@ -124,4 +124,4 @@ As a first time user I wanted the visitor to;
 - Login to account
 - Browse through the recently uploaded recipes
 - Add recipes into my *Saved Recipes* 
-- Give feedback to recipes tried 
+- Give feedback to recipes tried
