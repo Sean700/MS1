@@ -175,8 +175,7 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 ## Credits
 ## Code
 -	The full-screen hero image code came from _______________________
--	Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
--	MDN Web Docs : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found Here
+-	Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Nav System.
 ## Content
 + All content was written by the developer.
 ## Media
