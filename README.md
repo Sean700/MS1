@@ -1,6 +1,5 @@
 # MS1 Project
-
-I want to create a website geared towards gluten free recipes as I've been recently diagnosed as celiac. All recipes in the website will be gluten free and have categories from treats to meals to vegan/vegetarian and all in between. I want this website to be interactive and social to the extent where users will be able to upload their own recipes to the website. I will look to try and incorporate a comment section along with a rating response section also. 
+Create and develop a website for celiacs. Have all dishes and recipes gluten free. Make the website a one-stop website for all who require gluten-free diets. Have categories for **Baking, Main-Dishes, Breakfast, Deserts** and **Snacks**  
 
 # UX
 
