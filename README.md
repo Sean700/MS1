@@ -71,6 +71,7 @@ I used the Balsamiq programme for my wireframes [Balsamiq](https://balsamiq.com/
 
 - Homepage INSERT LINK
 - Recipe List INSERT LINK
+- Sample of Breakfast Page
 - Jumbotron INSERT PAGE
 - Comment Section INSERT LINK
 - Rating Recipes INSERT LINK
@@ -179,6 +180,10 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 ## Code
 -	The full-screen hero image code came from [Unsplash.com](https://unsplash.com/s/photos/)
 -	Bootstrap4: Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Nav System.
+-   Images of dishes and recipes came from the following websites;
+        a. [BBC Good Food](https://www.bbcgoodfood.com/recipes)
+        b. [Jamie Oliver](https://www.jamieoliver.com/recipes/)
+        c. [Celiac.org](https://celiac.org/eat-gluten-free/recipes/)
 ## Content
 + All content was written by the developer.
 ## Media
@@ -186,4 +191,9 @@ Click Here to retrieve pictures for some of the buttons and more detailed explan
 ## Acknowledgements
 + My Mentor for continuous helpful feedback.
 + Tutor support at Code Institute for their support.
++ The following websites gave me some valuable information and content to use;
+
+        a. [BBC Good Food](https://www.bbcgoodfood.com/recipes)
+        b. [Jamie Oliver](https://www.jamieoliver.com/recipes/)
+        c. [Celiac.org](https://celiac.org/eat-gluten-free/recipes/)
 
