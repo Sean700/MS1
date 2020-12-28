@@ -36,11 +36,12 @@ All content in the website will be targeting people who require **gluten-free** 
 ## Design 
 ### Colour
 * a. Keep a simple, soft complementary blend of colours. The following a selection of colours I liked and incorporated into my design. Seen on [Visme]( https://visme.co/blog/website-color-schemes/)
-•	#8D8741
-•	#659DBD
-•	#DAAD86
-•	#BC986A
-•	#FBEEC1
+• #E27D60
+• #85DCB
+• #E8A87C
+• #C38D9E
+• #41B3A3
+
 * b. I will find a suitable colour scheme from contrasting light colours; yellows, greens, blues and oranges. 
 * c. These light colours are what I would associate with a kitchen, being bright, open and positive. 
 
