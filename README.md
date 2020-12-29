@@ -55,6 +55,10 @@ A background image of a kitchen will serve as the website background.
 * These images are in-line with the keeping of a recipe website and will capture the user’s attention. 
 Image sourced from [Unsplash.com](https://unsplash.com/s/photos/)
 
+Further images sourced from [BBC Goodfood](https://www.bbcgoodfood.com/search/recipes?q=gluten+free)
+                            [Jamie Oliver.com](https://www.jamieoliver.com/search/?s=gluten-free)
+                            [Celiac.org](https://celiac.org/eat-gluten-free/recipes/)
+
 ## Features
 + Responsive on all devices
 + Interactive elements
