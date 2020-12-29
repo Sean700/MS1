@@ -7,9 +7,36 @@ body {
     font-family: "Raleway", sans-serif;
 }
 
-
-/*----------------------------Icons*/
-
-.icons i {
+h2 {
+    font-weight: 800;
+    margin-left: 5%;
+    padding-top: 30px;
     color: #41B3A3;
+}
+
+
+/******************************Navbar************/
+
+.col-navbar {
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+}
+
+/******************************Hero-image************/
+
+.hero-image {
+    background: url("../images/kitchen-hero.jpg") no-repeat;
+    max-width: 90%;
+    margin: auto;
+}
+
+/******************************Icons************/
+
+.icons {
+    font-size: 25px;
+    padding: 10px;
+    color: #41B3A3;
+    width: 40%;
+    float: left;
 }
