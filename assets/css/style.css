@@ -18,20 +18,15 @@ h2 {
 /******************************Navbar************/
 
 .col-navbar {
-    width: 45%;
-    margin-left: 5%;
-    float: left;
-}
-
-/******************************Hero-image************/
-
-.hero-image {
-    background: url("../images/kitchen-hero.jpg") no-repeat;
-    max-width: 90%;
+    width: 95%;
     margin: auto;
 }
 
-/******************************Icons************/
+.nav-item {
+    width: max-content;
+    margin: auto;
+    float: left;
+}
 
 .icons {
     font-size: 25px;
@@ -39,4 +34,25 @@ h2 {
     color: #41B3A3;
     width: 40%;
     float: left;
+    margin-left: 60%;
 }
+/******************************Hero-image************/
+
+.hero-image {
+    background: url("../images/kitchen-hero.jpg") no-repeat;
+    max-width: 90%;
+    margin: auto;
+      -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+display: flex;
+align-items: center;
+justify-content: center;
+
+position: relative;
+}
+
+/******************************Icons************/
+
