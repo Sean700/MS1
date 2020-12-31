@@ -3,56 +3,94 @@
 /*----------------------------Colours*/
 
 body {
-    background-color: #DAAD86;
     font-family: "Raleway", sans-serif;
+    background-color: #DAAD86;
 }
 
-h2 {
-    font-weight: 800;
+h1 {
+    color: #41B3A3;
+    font-size: larger;
     margin-left: 5%;
+}
+
+/*----------------------------Image*/
+
+.main-image {
+    background: url("../images/kitchen-hero.jpg");
+    height: 100vh;
+    width: 90%;
+    margin: auto;
     padding-top: 30px;
-    color: #41B3A3;
-}
-
-
-/******************************Navbar************/
-
-.col-navbar {
-    width: 95%;
-    margin: auto;
-}
-
-.nav-item {
-    width: max-content;
-    margin: auto;
-    float: left;
-}
-
-.icons {
-    font-size: 25px;
-    padding: 10px;
-    color: #41B3A3;
-    width: 40%;
-    float: left;
-    margin-left: 60%;
-}
-/******************************Hero-image************/
-
-.hero-image {
-    background: url("../images/kitchen-hero.jpg") no-repeat;
-    max-width: 90%;
-    margin: auto;
-      -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+      -o-background-size: cover;
   background-size: cover;
 
-display: flex;
+  display: flex;
 align-items: center;
 justify-content: center;
 
 position: relative;
+
 }
 
-/******************************Icons************/
+/*----------------------------Navbar*/
 
+.navbar {
+    width: 90%;
+    margin: auto;
+    height: 40px;
+    color: #41B3A3;
+    background-color: #C38D9E;
+    opacity: .25;
+}
+
+.navbar-container {
+    width: 50%;
+    padding-right: 15px;
+    color: #41B3A3;
+    display: flex;
+    flex-flow: column wrap;
+    padding-bottom: 30px;
+    justify-content: space-between;
+}
+
+.flex-space {
+    width: 20%;
+
+}
+
+/*----------------------------Icons*/
+
+.row-icons {
+    font-size: 25px;
+    padding: 15px;
+    color: #41B3A3;
+    margin-left: 40%;
+    margin-right: 5%;
+    display: inline-flex;
+
+}
+
+.navbar-container, .row-icons, .navbar {
+    display: inline;
+}
+
+/*----------------------------Footer*/
+
+.container-contact {
+    color: #41B3A3;
+    font-size: medium;
+    margin: 40px 20px 10px 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.foot-icons {
+    font-size: 35px;
+    color: #41B3A3;
+    display: inline-flex;
+    padding: 10px;
+    word-spacing: 5em;
+
+}
